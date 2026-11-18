@@ -9,6 +9,8 @@
     "card-image": "file:../packages/card-image",
     "card-crop": "file:../packages/card-crop",
     "card-screen": "file:../packages/card-screen",
-    "card-upload": "file:../packages/card-upload"
+    "card-upload": "file:../packages/card-upload",
+    "card-validate": "file:../packages/card-validate",
+    "card-bind": "file:../packages/card-bind"
   }
 }

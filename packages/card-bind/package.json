@@ -1,0 +1,11 @@
+{
+  "name": "card-bind",
+  "version": "1.0.0",
+  "description": "CARDSET protocol binder. Links CARDIMG txids together on BSV (front + back + supplementary).",
+  "type": "commonjs",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bsv": "^1.5.6"
+  }
+}

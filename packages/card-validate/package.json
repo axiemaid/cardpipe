@@ -1,0 +1,11 @@
+{
+  "name": "card-validate",
+  "version": "1.0.0",
+  "description": "Scan quality gate. Checks format, resolution, DPI, and card presence. No OpenCV — uses card-image for I/O.",
+  "type": "commonjs",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "card-image": "file:../card-image"
+  }
+}
