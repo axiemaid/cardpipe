@@ -1,0 +1,13 @@
+{
+  "name": "cardpipe-orchestrator",
+  "version": "1.0.0",
+  "description": "Pipeline orchestrator. Wires modules together: crop → screen → (future: upload, bind).",
+  "type": "commonjs",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "card-image": "file:../packages/card-image",
+    "card-crop": "file:../packages/card-crop",
+    "card-screen": "file:../packages/card-screen"
+  }
+}
