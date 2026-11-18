@@ -1,0 +1,6 @@
+node_modules/
+refs/
+.DS_Store
+*.log
+references/
+test-images/

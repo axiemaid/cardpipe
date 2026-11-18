@@ -1,0 +1,13 @@
+{
+  "name": "card-crop",
+  "version": "1.0.0",
+  "description": "OpenCV-based card boundary detection and cropping. Finds the card in a scan and extracts it.",
+  "type": "commonjs",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@techstark/opencv-js": "^5.0.0-release.1",
+    "card-image": "file:../card-image",
+    "sharp": "^0.33.0"
+  }
+}

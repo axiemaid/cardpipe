@@ -1,0 +1,11 @@
+{
+  "name": "card-phash",
+  "version": "1.0.0",
+  "description": "DCT-based perceptual hashing for card images. Pure math, zero dependencies.",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "license": "MIT"
+}

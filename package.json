@@ -1,0 +1,11 @@
+{
+  "name": "cardpipe",
+  "version": "1.0.0",
+  "description": "Modular card processing pipeline. Each module is standalone and composable.",
+  "type": "commonjs",
+  "license": "MIT",
+  "scripts": {
+    "build-refs": "node scripts/build-refs.cjs",
+    "test": "node scripts/test.cjs"
+  }
+}

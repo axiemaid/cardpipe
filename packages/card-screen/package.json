@@ -1,0 +1,12 @@
+{
+  "name": "card-screen",
+  "version": "1.0.0",
+  "description": "Lightweight card identity screener. pHash + color histogram matching against a reference database. No OpenCV, no SSIM.",
+  "type": "commonjs",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "card-phash": "file:../card-phash",
+    "card-image": "file:../card-image"
+  }
+}

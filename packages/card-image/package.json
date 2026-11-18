@@ -1,0 +1,12 @@
+{
+  "name": "card-image",
+  "version": "1.0.0",
+  "description": "Isomorphic image I/O adapter. Raw pixel access via sharp (Node) or Canvas (browser).",
+  "type": "commonjs",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "^0.33.0"
+  },
+  "optionalDependencies": {}
+}
