@@ -4,3 +4,4 @@ refs/
 *.log
 references/
 test-images/
+public/refs/
