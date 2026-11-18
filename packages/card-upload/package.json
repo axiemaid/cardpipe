@@ -1,0 +1,11 @@
+{
+  "name": "card-upload",
+  "version": "1.0.0",
+  "description": "CARDIMG protocol uploader. Broadcasts card image to BSV on-chain. No state, no indexing.",
+  "type": "commonjs",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bsv": "^1.5.6"
+  }
+}

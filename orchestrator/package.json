@@ -8,6 +8,7 @@
   "dependencies": {
     "card-image": "file:../packages/card-image",
     "card-crop": "file:../packages/card-crop",
-    "card-screen": "file:../packages/card-screen"
+    "card-screen": "file:../packages/card-screen",
+    "card-upload": "file:../packages/card-upload"
   }
 }
